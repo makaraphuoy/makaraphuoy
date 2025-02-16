@@ -1,5 +1,5 @@
 # Makara👋, but can call me Mark
-### Enthusiast Frontend Developer
+### Enthusiastic Frontend Developer
 
 Passionate developer with expertise in web development and security.
 
