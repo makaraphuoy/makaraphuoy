@@ -1,16 +1,20 @@
-## Hi there 👋
+# Makara👋, but can call me Mark
+### Enthusiast Frontend Developer
 
-<!--
-**makaraphuoy/makaraphuoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate developer with expertise in web development and security.
 
-Here are some ideas to get you started:
+<img align="right" style="margin-left: 50px;" height="150" src="https://media.tenor.com/GVbLnw73qD8AAAAi/dancing-duck-karlo.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tech Stack**
+- Advanced: `Website Developer`
+- Intermediate: `Backend Developer`
+
+🤝 **Connect With Me**
+- [Website](https://phuoymakara.vercel.app/)
+- [Email](mailto:phuoymakara@gmail.com)
+  
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/only-mar/only-mar/output/snake.svg" alt="Snake animation" />
+
+###
